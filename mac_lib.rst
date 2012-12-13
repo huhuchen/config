@@ -1,41 +1,71 @@
 包管理工具
 ================
-#)homebrew
-#)pip
-#)easy_install
+
+homebrew
+----------------
+
+pip
+----------------
+
+easy_install
+----------------
+
 
 系统工具
 ================
-#)screen
-#)virtualenv
-#)vim
+
+screen
+----------------
+
+virtualenv
+---------------
+
+vim
+---------------
 
 c编辑环境
 ================
-#)gcc
-#)valgrind
+
+gcc
+---------------
+
+valgrind
+---------------
 
     brew install valgrind
 
 python
 ================
-#)ipython
-#)requests
-#)envoy
-#)PIL
-#)pyexiv2
+
+ipython
+-----------------
+
+requests
+----------------
+
+envoy
+---------------
+
+PIL
+---------------
+
+pyexiv2
+-------------
 
 常用web相关
 ================
 
-#)nginx
+nginx
+--------------
 
-#)redis
+redis
+--------------
 
 版本控制
 ================
 
-#)git
+git
+----------------
 
-#)hg
-
+hg
+-----------------
